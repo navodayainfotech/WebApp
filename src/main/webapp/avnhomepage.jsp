@@ -12,6 +12,7 @@ background-color: #f9f8f7;
 {
 text-align: right;
 }
+	
 .wlp-login-message-content {
     position: absolute;
     background: #158a8c;
